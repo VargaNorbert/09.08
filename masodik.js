@@ -7,7 +7,7 @@ for(i=0;i<20;i++)
     {
 
         nev:"Cirmos"+i,
-        eletkor:Math.floor(Math.random()*8)+2
+        eletkor:Math.floor(Math.random()*9)+2
     }
 
     tomb.push(macska)
